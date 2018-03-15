@@ -1,4 +1,4 @@
-country_list = ['Malta',
+countryList = ['Malta',
  'Sudan',
  'Oman',
  'Jamaica',
